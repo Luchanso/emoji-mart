@@ -8,7 +8,7 @@
 
 ## Installation
 
-`npm install --save emoji-mart`
+`npm install --save @luchanso/emoji-mart`
 
 ## Components
 ### Picker
